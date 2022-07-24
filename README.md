@@ -1,3 +1,7 @@
+This is a C parser and compiler which contains most of the functionalities of a modern C compiler.
+
+More details are given in the Mini-C-Compiler (Details).pdf file.
+
 Steps to check the syntactic correctness of a C-program, say “check.c”,  are as follows:
 
 1. Open the terminal in the NLP folder of the zipped file, and paste the “check.c” file in it.
