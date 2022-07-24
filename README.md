@@ -7,6 +7,7 @@ Steps to check the syntactic correctness of a C-program, say “check.c”,  are
 3. There are two alternate ways from here on.
 
 4. One way is to change Makefile directly:
+	abra
 	4.1) Open the “Makefile” in the folder and edit the file in two places.
 	4.2) The first place is the “output.txt: a.out” label.
 	4.3) Add “./a.out < check.c > out.txt” if one want to see the output in a file named out.txt.
